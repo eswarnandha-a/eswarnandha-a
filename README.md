@@ -14,11 +14,6 @@
 
 <br><br>
 
-<div align="right">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eswarnandha-a&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-
-</div>
 
 <br><br>
 
