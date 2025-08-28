@@ -1,36 +1,10 @@
 <div align="right">
-
 # **Hey, I'm Eswar Nandha A**
-
 </div>
-
 <div align="right">
-  
 ### **Where Pixels Meet Purpose, Code Meets Creativity**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=500&lines=Design+Architect+Code+Craftsman;Creative+Developer;UI+UX+Wizard;Full-Stack+Innovator" alt="Typing SVG" />
-
-</div>
-
-<br><br>
-
-
-<br><br>
-
-<div align="right">
-
-## **Current Mission**
-
-**Building:** [**SECE Space**](https://github.com/eswarnandha-a/sece-space)
-
-</div>
-
-<br><br>
-
-<div align="right">
-
+<br>
 ## **Development**
-
 <p align="right">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="90" height="90" style="margin: 20px; transition: transform 0.3s ease;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="90" height="90" style="margin: 20px; transition: transform 0.3s ease;"/>
@@ -50,7 +24,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="right">
 
@@ -66,7 +40,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="right">
 
